@@ -1,18 +1,16 @@
 # Hey,  I'm Bhagyashree
 
-**Full Stack Developer** | Fintech & Payment Systems | Node.js · React · TypeScript
-
-
+**Technical Business Analyst | Fintech, Payments & RegTech | ex-developer who still ships
 
 ## About Me
 
-Full Stack Developer specializing in fintech and payment infrastructure. I built production-grade systems with multi-processor payment routing, AI-powered fraud detection, real-time collaboration, and regulatory compliance (GDPR, FCA, KYC/AML).
+Technical Business Analyst focused on fintech, payments, and regulatory compliance — with a developer's background that lets me turn business and regulatory needs into dev-ready specifications, question feasibility early, and read the code my requirements become.
 
-- Based in India | IST Timezone
-- Open to remote opportunities (UK/EU/Australia)
-- Available for full-time (via EOR/Deel) or contract roles
+I've built production-grade payment platform with multi-processor routing (Stripe + Razorpay), AI-powered fraud detection (7-rule scoring + Hugging Face AI), double-entry ledger, multi-currency support, automated settlement, and compliance (PSD2/SCA, GDPR, AML, KYC/EDD). Analyst work: mapped each regulatory obligation into testable system behavior.
 
-
+- Based in India · IST timezone
+- Open to remote and hybrid roles
+- Available full-time (via EOR/Deel) or on contract
 
 ## Featured Projects
 
@@ -40,7 +38,7 @@ Full-stack team collaboration app with real-time WebSocket notifications, task m
 
 **Databases:** PostgreSQL · MongoDB · Redis
 
-**Payments:** Stripe · Razorpay · Multi-currency · Settlement · Fraud Detection · KYC/AML · GDPR
+**Payments:** Stripe · Razorpay · Multi-currency · Settlement · Fraud Detection · PSD2/SCA · GDPR · AML · KYC/EDD
 
 **AI:** Hugging Face API · Text Classification
 
@@ -50,15 +48,18 @@ Full-stack team collaboration app with real-time WebSocket notifications, task m
 
 ## Experience
 
-**Full Stack Development Intern** — Digisnare Technologies (2024)
+**AI Code Quality Engineer (Contract)** — DataAnnotation (2026 – present)
+- Evaluate LLM-generated code for correctness, edge-case handling, and requirement adherence
+- Review logic critically to catch where code silently does the wrong thing — the same scrutiny I   bring to requirements
+
+**Full Stack Development Intern** — Digisnare Technologies (2025)
 - Built responsive UI components for an agricultural equipment rental platform
 - Worked with PHP backend and frontend integration
 
-**TheWeeklyBlog** — WordPress Blog Site (2024-2025)
+**TheWeeklyBlog** — WordPress Blog Site (2024–2025)
 - Built and managed a WordPress blog on DigitalOcean VPS
 - Configured Nginx, SSL, domain DNS, GDPR cookie consent
 - Integrated Google Analytics, maintained server for 8 months
-
 
 
 ## Education
@@ -66,7 +67,6 @@ Full-stack team collaboration app with real-time WebSocket notifications, task m
 **BSc Computer Science & Electronics** (2022-2025)
 
 
-
 ## Contact
 
-Email: bhagyashreebadiger.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/bhagyashree-8b5165349) · [GitHub](https://github.com/bshree11)
+Email: bhagyashreebadiger.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/bhagyashreebadiger) · [GitHub](https://github.com/bshree11)
