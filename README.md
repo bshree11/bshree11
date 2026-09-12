@@ -1,6 +1,6 @@
 # Hey,  I'm Bhagyashree
 
-**Technical Business Analyst | Fintech, Payments & RegTech | ex-developer who still ships
+**Technical Business Analyst** | Fintech, Payments & RegTech | ex-developer who still ships
 
 ## About Me
 
